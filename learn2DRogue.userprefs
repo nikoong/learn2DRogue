@@ -1,12 +1,29 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BoardManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player.cs">
     <Files>
-      <File FileName="Assets\Scripts\BoardManager.cs" Line="63" Column="2" />
+      <File FileName="Assets\Scripts\Player.cs" Line="59" Column="3" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="93" Column="1" />
+      <File FileName="Assets\Scripts\SoundManager.cs" Line="22" Column="1" />
+      <File FileName="Assets\Scripts\Loader.cs" Line="12" Column="29" />
+      <File FileName="Assets\Scripts\MovingObject.cs" Line="34" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\GameManager.cs" line="100" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\GameManager.cs" line="65" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\GameManager.cs" line="79" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\GameManager.cs" line="85" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\GameManager.cs" line="93" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\GameManager.cs" line="109" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\GameManager.cs" line="28" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\GameManager.cs" line="26" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\GameManager.cs" line="40" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\SoundManager.cs" line="15" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\Player.cs" line="59" column="1" />
+      <Breakpoint file="D:\git\Unity-project\learn2DRogue\Assets\Scripts\Player.cs" line="69" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
