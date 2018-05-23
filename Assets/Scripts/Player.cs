@@ -7,7 +7,7 @@ public class Player : MovingObject {
 	 
 	public int wallDamage = 1;
 	public int pointsPerFood = 10;
-	public int pointPerSoda = 20;
+	public int pointsPerSoda = 20;
 	public float restartLevelDelay = 1f;
 	public Text foodText;
 	public AudioClip moveSound1;
@@ -115,8 +115,8 @@ public class Player : MovingObject {
 		}
 		else if (other.tag == "Soda")
 		{
-			food += pointPerSoda;
-			foodText.text = "+" + pointsPerFood + "Food:" + food;
+			food += pointsPerSoda;
+			foodText.text = "+" + pointsPerSoda + "Food:" + food;
 			SoundManager.instance.RandomizeSfx (drinkSound1,drinkSound2);
 			other.gameObject.SetActive (false);
 		}
