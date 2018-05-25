@@ -3,14 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn2DRogue", "learn2DRogue.csproj", "{46657E2E-FC4D-03CD-6B27-335F1C1FDC5D}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn2DRogue.Editor", "learn2DRogue.Editor.csproj", "{86F68120-625E-F15A-7904-C2DFF196E2F8}"
 EndProject
+=======
+>>>>>>> 3d5837f74ea550a7fab6e66d4013bf7b928eb19f
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{46657E2E-FC4D-03CD-6B27-335F1C1FDC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{46657E2E-FC4D-03CD-6B27-335F1C1FDC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46657E2E-FC4D-03CD-6B27-335F1C1FDC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -19,6 +23,12 @@ Global
 		{86F68120-625E-F15A-7904-C2DFF196E2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86F68120-625E-F15A-7904-C2DFF196E2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86F68120-625E-F15A-7904-C2DFF196E2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{8DB79A8A-60BC-B6E2-F2DB-9234B0E1F07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB79A8A-60BC-B6E2-F2DB-9234B0E1F07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB79A8A-60BC-B6E2-F2DB-9234B0E1F07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB79A8A-60BC-B6E2-F2DB-9234B0E1F07A}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 3d5837f74ea550a7fab6e66d4013bf7b928eb19f
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
